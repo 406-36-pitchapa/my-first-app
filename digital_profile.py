@@ -4,7 +4,7 @@ st.title("My Digital Profile")
   
 
 st.header("About Me")
-  st.write("นางสาว พิชชาภา ภิรมย์วงษ์")
+  st.write("นางสาวพิชชาภา ภิรมย์วงษ์")
   st.write("ชื่อเล่น มายเดียร์")
   st.write("เลขที่36 ม.4/6")
 
