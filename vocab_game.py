@@ -90,7 +90,7 @@ ans2 = st.text_input(
     value=st.session_state.ans2_val,
 )
 ans3 = st.text_input(
-    "ข้อ 3: The `c _ w` make milk. 🍑",
+    "ข้อ 3: The `c _ w` make milk. 🐄",
     value=st.session_state.ans3_val,
 )
 
