@@ -114,7 +114,7 @@ if "start" in st.session_state and not st.session_state.get("is_ended", False):
 
 # 5. แสดง Dialog ผลลัพธ์
 if st.session_state.get("is_ended", False):
-    show_result_dialog(ans1, ans2, ans3, ans4)
+    show_result_dialog(ans1, ans2, ans3)
 
 st.divider()
 st.write("นางสาวพิชชาภา ภิรมย์วงษ์ เลขที่ 36 ม.4/6")
